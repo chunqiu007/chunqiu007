@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @chunqiu007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm chunqiu007 👋
 
-<!---
-chunqiu007/chunqiu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Compiler engineer by day, curious tinkerer by night.
+
+I spend my working hours building and optimizing compilers, turning high-level ideas into efficient machine-executable code. Outside of work, I enjoy exploring side projects that catch my interest — from customizing blog systems to experimenting with new tools and workflows.
+
+---
+
+## 🛠️ What I work with
+
+- **Day job**: Compiler development, low-level optimization, build systems — mostly in C++
+- **Side interests**: Full-stack tinkering, personal infrastructure, dev tooling, open-source customization
+
+---
+
+## 📫 Get in touch
+
+- GitHub: [@chunqiu007](https://github.com/chunqiu007)
+- Email: 849615529@qq.com
+
+---
+
+*"Build tools that make building things easier."*
